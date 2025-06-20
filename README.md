@@ -1,6 +1,9 @@
 Take control of Unturned like never before.  
 With this undetected and fully customizable cheat, dominate PvP, breeze through survival, and explore the map without limits.
-![Unturned Cheat Preview](https://i.postimg.cc/vZLhyP1z/maxresdefault.jpg)
+<p align="center">
+  <img src="https://i.postimg.cc/vZLhyP1z/maxresdefault.jpg" alt="Unturned Cheat 2025 Preview" width="100%"/>
+</p>
+
 
 ---
 
